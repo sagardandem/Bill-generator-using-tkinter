@@ -1,1 +1,1 @@
-# Bill-geerator-using-tkinter
+# Bill-generator-using-tkinter
